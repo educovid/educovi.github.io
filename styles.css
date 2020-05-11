@@ -157,6 +157,10 @@ a:hover {
   width: 40px;
   height: 40px;
 }
+
+.media-social-footer{
+  margin-top: 50px;
+}
 .header_text {
   padding: 20px;
   width: 60%;
