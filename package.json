@@ -13,6 +13,6 @@
     "save-dev": "0.0.1-security"
   },
   "devDependencies": {
-    "sharp": "^0.25.2"
+    "sharp": "^0.30.5"
   }
 }
